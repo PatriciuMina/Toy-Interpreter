@@ -1,0 +1,284 @@
+
+ProgramState id:1
+ExeStack: 
+int v
+v=2; print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+v=2; print(v)
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+v=2
+print(v)
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+print(v)
+SymTable: 
+v->2
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+SymTable: 
+v->2
+OutPut: 
+2
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+int v
+v=2; print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+v=2; print(v)
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+v=2
+print(v)
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+print(v)
+SymTable: 
+v->2
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+SymTable: 
+v->2
+OutPut: 
+2
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+int v; v=2; print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+int v
+v=2; print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+int v
+v=2; print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+v=2; print(v)
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+v=2; print(v)
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+v=2
+print(v)
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+v=2
+print(v)
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+print(v)
+SymTable: 
+v->2
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+print(v)
+SymTable: 
+v->2
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+SymTable: 
+v->2
+OutPut: 
+2
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+int v; v=2; print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+  SemaphoreTable:
+
+ProgramState id:1
+ExeStack: 
+int v
+v=2; print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+  SemaphoreTable:
+
+ProgramState id:1
+ExeStack: 
+int v
+v=2; print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+  SemaphoreTable:
+
+ProgramState id:1
+ExeStack: 
+v=2; print(v)
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+  SemaphoreTable:
+
+ProgramState id:1
+ExeStack: 
+v=2; print(v)
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+  SemaphoreTable:
+
+ProgramState id:1
+ExeStack: 
+v=2
+print(v)
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+  SemaphoreTable:
+
+ProgramState id:1
+ExeStack: 
+v=2
+print(v)
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+  SemaphoreTable:
+
+ProgramState id:1
+ExeStack: 
+print(v)
+SymTable: 
+v->2
+OutPut: 
+FileTable: 
+Heap: 
+  SemaphoreTable:
+
+ProgramState id:1
+ExeStack: 
+print(v)
+SymTable: 
+v->2
+OutPut: 
+FileTable: 
+Heap: 
+  SemaphoreTable:
+
+ProgramState id:1
+ExeStack: 
+SymTable: 
+v->2
+OutPut: 
+2
+FileTable: 
+Heap: 
+  SemaphoreTable:

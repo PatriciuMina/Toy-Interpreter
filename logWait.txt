@@ -1,0 +1,1069 @@
+
+ProgramState id:13
+ExeStack: 
+int v; v=20; WAIT (10) ; print((v * 10))
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+int v
+v=20; WAIT (10) ; print((v * 10))
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+int v
+v=20; WAIT (10) ; print((v * 10))
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+v=20; WAIT (10) ; print((v * 10))
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+v=20; WAIT (10) ; print((v * 10))
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+v=20
+WAIT (10) ; print((v * 10))
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+v=20
+WAIT (10) ; print((v * 10))
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (10) ; print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (10) ; print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (10) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (10) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(10); WAIT (9) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(10); WAIT (9) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(10)
+WAIT (9) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(10)
+WAIT (9) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (9) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (9) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(9); WAIT (8) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(9); WAIT (8) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(9)
+WAIT (8) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(9)
+WAIT (8) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (8) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (8) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(8); WAIT (7) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(8); WAIT (7) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(8)
+WAIT (7) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(8)
+WAIT (7) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (7) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (7) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(7); WAIT (6) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(7); WAIT (6) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(7)
+WAIT (6) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(7)
+WAIT (6) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (6) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (6) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(6); WAIT (5) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(6); WAIT (5) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(6)
+WAIT (5) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(6)
+WAIT (5) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (5) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (5) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(5); WAIT (4) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(5); WAIT (4) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(5)
+WAIT (4) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(5)
+WAIT (4) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (4) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (4) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(4); WAIT (3) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(4); WAIT (3) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(4)
+WAIT (3) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(4)
+WAIT (3) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (3) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (3) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(3); WAIT (2) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(3); WAIT (2) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(3)
+WAIT (2) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(3)
+WAIT (2) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (2) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+3
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (2) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+3
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(2); WAIT (1) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+3
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(2); WAIT (1) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+3
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(2)
+WAIT (1) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+3
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(2)
+WAIT (1) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+3
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (1) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+3
+2
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (1) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+3
+2
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(1); WAIT (0) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+3
+2
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(1); WAIT (0) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+3
+2
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(1)
+WAIT (0) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+3
+2
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print(1)
+WAIT (0) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+3
+2
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (0) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+WAIT (0) 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+print((v * 10))
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+FileTable: 
+Heap: 
+
+ProgramState id:13
+ExeStack: 
+SymTable: 
+v->20
+OutPut: 
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+200
+FileTable: 
+Heap: 

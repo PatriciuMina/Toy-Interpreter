@@ -1,0 +1,518 @@
+
+ProgramState id:3
+ExeStack: 
+bool a
+int v; a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+int v; a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+int v
+a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+a=true
+(IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+(IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->true
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+(IF(a) THEN(v=2)ELSE(v=3))
+print(v)
+SymTable: 
+a->true
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+v=2
+print(v)
+SymTable: 
+a->true
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+print(v)
+SymTable: 
+a->true
+v->2
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+SymTable: 
+a->true
+v->2
+OutPut: 
+2
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+bool a; int v; a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+bool a
+int v; a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+bool a
+int v; a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+int v; a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+int v; a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+int v
+a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+int v
+a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+a=true
+(IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+a=true
+(IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+(IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->true
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+(IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->true
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+(IF(a) THEN(v=2)ELSE(v=3))
+print(v)
+SymTable: 
+a->true
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+(IF(a) THEN(v=2)ELSE(v=3))
+print(v)
+SymTable: 
+a->true
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+v=2
+print(v)
+SymTable: 
+a->true
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+v=2
+print(v)
+SymTable: 
+a->true
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+print(v)
+SymTable: 
+a->true
+v->2
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+print(v)
+SymTable: 
+a->true
+v->2
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:3
+ExeStack: 
+SymTable: 
+a->true
+v->2
+OutPut: 
+2
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+bool a; int v; a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+bool a
+int v; a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+bool a
+int v; a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+int v; a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+int v; a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+int v
+a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+int v
+a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+a=true
+(IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+a=true
+(IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->false
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+(IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->true
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+(IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+a->true
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+(IF(a) THEN(v=2)ELSE(v=3))
+print(v)
+SymTable: 
+a->true
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+(IF(a) THEN(v=2)ELSE(v=3))
+print(v)
+SymTable: 
+a->true
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+v=2
+print(v)
+SymTable: 
+a->true
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+v=2
+print(v)
+SymTable: 
+a->true
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+print(v)
+SymTable: 
+a->true
+v->2
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+print(v)
+SymTable: 
+a->true
+v->2
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:11
+ExeStack: 
+SymTable: 
+a->true
+v->2
+OutPut: 
+2
+FileTable: 
+Heap: 
+
+ProgramState id:12
+ExeStack: 
+bool a; int v; a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:12
+ExeStack: 
+bool a
+int v; a=true; (IF(a) THEN(v=2)ELSE(v=3)); print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 

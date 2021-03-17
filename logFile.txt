@@ -1,0 +1,68 @@
+
+ProgramState id:1
+ExeStack: 
+string  varf
+varf='test.in'; int varc; openRFile(varf); Readfile(varf,varc); print(varc); Readfile(varf,varc); print(varc); CloseRFile(varf)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+varf='test.in'; int varc; openRFile(varf); Readfile(varf,varc); print(varc); Readfile(varf,varc); print(varc); CloseRFile(varf)
+SymTable: 
+varf->''
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+varf='test.in'
+int varc; openRFile(varf); Readfile(varf,varc); print(varc); Readfile(varf,varc); print(varc); CloseRFile(varf)
+SymTable: 
+varf->''
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+int varc; openRFile(varf); Readfile(varf,varc); print(varc); Readfile(varf,varc); print(varc); CloseRFile(varf)
+SymTable: 
+varf->'test.in'
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+int varc
+openRFile(varf); Readfile(varf,varc); print(varc); Readfile(varf,varc); print(varc); CloseRFile(varf)
+SymTable: 
+varf->'test.in'
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+openRFile(varf); Readfile(varf,varc); print(varc); Readfile(varf,varc); print(varc); CloseRFile(varf)
+SymTable: 
+varf->'test.in'
+varc->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:1
+ExeStack: 
+openRFile(varf)
+Readfile(varf,varc); print(varc); Readfile(varf,varc); print(varc); CloseRFile(varf)
+SymTable: 
+varf->'test.in'
+varc->0
+OutPut: 
+FileTable: 
+Heap: 

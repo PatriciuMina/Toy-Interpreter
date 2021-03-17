@@ -1,0 +1,281 @@
+
+ProgramState id:8
+ExeStack: 
+int v
+v=4;  while(v>0) { print(v); v=(v - 1) }; print(v)
+SymTable: 
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+v=4;  while(v>0) { print(v); v=(v - 1) }; print(v)
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+v=4
+ while(v>0) { print(v); v=(v - 1) }; print(v)
+SymTable: 
+v->0
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+ while(v>0) { print(v); v=(v - 1) }; print(v)
+SymTable: 
+v->4
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+ while(v>0) { print(v); v=(v - 1) }
+print(v)
+SymTable: 
+v->4
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+print(v); v=(v - 1)
+ while(v>0) { print(v); v=(v - 1) }
+print(v)
+SymTable: 
+v->4
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+print(v)
+v=(v - 1)
+ while(v>0) { print(v); v=(v - 1) }
+print(v)
+SymTable: 
+v->4
+OutPut: 
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+v=(v - 1)
+ while(v>0) { print(v); v=(v - 1) }
+print(v)
+SymTable: 
+v->4
+OutPut: 
+4
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+ while(v>0) { print(v); v=(v - 1) }
+print(v)
+SymTable: 
+v->3
+OutPut: 
+4
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+print(v); v=(v - 1)
+ while(v>0) { print(v); v=(v - 1) }
+print(v)
+SymTable: 
+v->3
+OutPut: 
+4
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+print(v)
+v=(v - 1)
+ while(v>0) { print(v); v=(v - 1) }
+print(v)
+SymTable: 
+v->3
+OutPut: 
+4
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+v=(v - 1)
+ while(v>0) { print(v); v=(v - 1) }
+print(v)
+SymTable: 
+v->3
+OutPut: 
+4
+3
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+ while(v>0) { print(v); v=(v - 1) }
+print(v)
+SymTable: 
+v->2
+OutPut: 
+4
+3
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+print(v); v=(v - 1)
+ while(v>0) { print(v); v=(v - 1) }
+print(v)
+SymTable: 
+v->2
+OutPut: 
+4
+3
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+print(v)
+v=(v - 1)
+ while(v>0) { print(v); v=(v - 1) }
+print(v)
+SymTable: 
+v->2
+OutPut: 
+4
+3
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+v=(v - 1)
+ while(v>0) { print(v); v=(v - 1) }
+print(v)
+SymTable: 
+v->2
+OutPut: 
+4
+3
+2
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+ while(v>0) { print(v); v=(v - 1) }
+print(v)
+SymTable: 
+v->1
+OutPut: 
+4
+3
+2
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+print(v); v=(v - 1)
+ while(v>0) { print(v); v=(v - 1) }
+print(v)
+SymTable: 
+v->1
+OutPut: 
+4
+3
+2
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+print(v)
+v=(v - 1)
+ while(v>0) { print(v); v=(v - 1) }
+print(v)
+SymTable: 
+v->1
+OutPut: 
+4
+3
+2
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+v=(v - 1)
+ while(v>0) { print(v); v=(v - 1) }
+print(v)
+SymTable: 
+v->1
+OutPut: 
+4
+3
+2
+1
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+ while(v>0) { print(v); v=(v - 1) }
+print(v)
+SymTable: 
+v->0
+OutPut: 
+4
+3
+2
+1
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+print(v)
+SymTable: 
+v->0
+OutPut: 
+4
+3
+2
+1
+FileTable: 
+Heap: 
+
+ProgramState id:8
+ExeStack: 
+SymTable: 
+v->0
+OutPut: 
+4
+3
+2
+1
+0
+FileTable: 
+Heap: 
